@@ -1,0 +1,4 @@
+﻿  dllmain.cpp
+C:\Users\mharr\Desktop\Rift Source's\Rift-10.40 [New]\Rift-10.40-new\core.h(222,86): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\mharr\Desktop\Rift Source's\Rift-10.40 [New]\Rift-10.40-new\ue4.h(188): warning C4172: returning address of local variable or temporary: Result
+  Rift.vcxproj -> C:\Users\mharr\Desktop\Rift Source's\Rift-10.40 [New]\Rift-10.40-new\x64\Debug\Rift.dll
